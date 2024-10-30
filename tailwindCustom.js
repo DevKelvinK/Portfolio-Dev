@@ -23,6 +23,10 @@ tailwind.config = {
         'intro': "url('./src/assets/Background_Intro.png')",
         'contacts': "url('./src/assets/Background_Intro.png')",
       },
+      lineHeight: {
+        '120': '120%',
+        '140': '140%',
+      },
     }
   }
 }
