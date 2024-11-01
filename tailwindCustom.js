@@ -27,6 +27,9 @@ tailwind.config = {
         '120': '120%',
         '140': '140%',
       },
+      boxShadow: {
+        'borderHover': '0px 0px 0px 1.5px #878EA1'
+      },
     }
   }
 }

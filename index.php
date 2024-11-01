@@ -64,205 +64,217 @@
       <h3 class="font-asap leading-120 font-bold text-2xl text-gray-600Custom">Veja os projetos em destaque</h3>
     </div>
 
-    <section class="mx-auto grid grid-rows-3 grid-cols-2 gap-6">
-      <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
-        <div class="my-auto">
-          <img src="/src/assets/Thumbnail_Project-01.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
-        </div>
-
-        <div class="flex flex-col justify-between px-1 py-2">
-          <div>
-            <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Travelgram</h3>
-            <p class="font-maven text-sm leading-140 text-gray-500Custom">
-              Rede social onde as pessoas mostram os registros de suas viagens pelo mundo
-            </p>
+    <nav class="mx-auto grid grid-rows-3 grid-cols-2 gap-6">
+      <a href="" class="rounded-xl mx-auto my-auto hover:shadow-borderHover focus:shadow-borderHover outline-none duration-[300ms]">
+        <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
+          <div class="my-auto">
+            <img src="/src/assets/Thumbnail_Project-01.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
           </div>
-
-          <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
-            <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
-              PHP
-            </span>
-
-            <span class="px-2 py-0.5 bg-blueCustom rounded-full">
-              CSS
-            </span>
-
-            <span class="px-2 py-0.5 bg-redCustom rounded-full">
-              HTML
-            </span>
-
-            <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
-              Javascript
-            </span>
+  
+          <div class="flex flex-col justify-between px-1 py-2">
+            <div>
+              <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Travelgram</h3>
+              <p class="font-maven text-sm leading-140 text-gray-500Custom">
+                Rede social onde as pessoas mostram os registros de suas viagens pelo mundo
+              </p>
+            </div>
+  
+            <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
+              <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
+                PHP
+              </span>
+  
+              <span class="px-2 py-0.5 bg-blueCustom rounded-full">
+                CSS
+              </span>
+  
+              <span class="px-2 py-0.5 bg-redCustom rounded-full">
+                HTML
+              </span>
+  
+              <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
+                Javascript
+              </span>
+            </div>
           </div>
-        </div>
-      </article>
+        </article>
+      </a>
 
-      <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
-        <div class="my-auto">
-          <img src="/src/assets/Thumbnail_Project-02.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
-        </div>
-
-        <div class="flex flex-col justify-between px-1 py-2">
-          <div>
-            <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Página de receita</h3>
-            <p class="font-maven text-sm leading-140 text-gray-500Custom">
-              Página com o passo a passo de uma receita para cupcakes
-            </p>
+      <a href="" class="rounded-xl mx-auto my-auto hover:shadow-borderHover focus:shadow-borderHover outline-none duration-[300ms]">
+        <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
+          <div class="my-auto">
+            <img src="/src/assets/Thumbnail_Project-02.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
           </div>
-
-          <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
-            <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
-              PHP
-            </span>
-
-            <span class="px-2 py-0.5 bg-blueCustom rounded-full">
-              CSS
-            </span>
-
-            <span class="px-2 py-0.5 bg-redCustom rounded-full">
-              HTML
-            </span>
-
-            <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
-              Javascript
-            </span>
+  
+          <div class="flex flex-col justify-between px-1 py-2">
+            <div>
+              <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Página de receita</h3>
+              <p class="font-maven text-sm leading-140 text-gray-500Custom">
+                Página com o passo a passo de uma receita para cupcakes
+              </p>
+            </div>
+  
+            <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
+              <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
+                PHP
+              </span>
+  
+              <span class="px-2 py-0.5 bg-blueCustom rounded-full">
+                CSS
+              </span>
+  
+              <span class="px-2 py-0.5 bg-redCustom rounded-full">
+                HTML
+              </span>
+  
+              <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
+                Javascript
+              </span>
+            </div>
           </div>
-        </div>
-      </article>
+        </article>
+      </a> 
 
-      <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
-        <div class="my-auto">
-          <img src="/src/assets/Thumbnail_Project-03.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
-        </div>
-
-        <div class="flex flex-col justify-between px-1 py-2">
-          <div>
-            <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Tech News</h3>
-            <p class="font-maven text-sm leading-140 text-gray-500Custom">
-            Homepage de um portal de notícias sobre a área de tecnologia
-            </p>
+      <a href="" class="rounded-xl mx-auto my-auto hover:shadow-borderHover focus:shadow-borderHover outline-none duration-[300ms]">
+        <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
+          <div class="my-auto">
+            <img src="/src/assets/Thumbnail_Project-03.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
           </div>
-
-          <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
-            <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
-              PHP
-            </span>
-
-            <span class="px-2 py-0.5 bg-blueCustom rounded-full">
-              CSS
-            </span>
-
-            <span class="px-2 py-0.5 bg-redCustom rounded-full">
-              HTML
-            </span>
-
-            <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
-              Javascript
-            </span>
+  
+          <div class="flex flex-col justify-between px-1 py-2">
+            <div>
+              <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Tech News</h3>
+              <p class="font-maven text-sm leading-140 text-gray-500Custom">
+              Homepage de um portal de notícias sobre a área de tecnologia
+              </p>
+            </div>
+  
+            <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
+              <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
+                PHP
+              </span>
+  
+              <span class="px-2 py-0.5 bg-blueCustom rounded-full">
+                CSS
+              </span>
+  
+              <span class="px-2 py-0.5 bg-redCustom rounded-full">
+                HTML
+              </span>
+  
+              <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
+                Javascript
+              </span>
+            </div>
           </div>
-        </div>
-      </article>
+        </article>
+      </a>
 
-      <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
-        <div class="my-auto">
-          <img src="/src/assets/Thumbnail_Project-04.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
-        </div>
-
-        <div class="flex flex-col justify-between px-1 py-2">
-          <div>
-            <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Refund</h3>
-            <p class="font-maven text-sm leading-140 text-gray-500Custom">
-              Um sistema para pedido e acompanhamento de reembolso 
-            </p>
+      <a href="" class="rounded-xl mx-auto my-auto hover:shadow-borderHover focus:shadow-borderHover outline-none duration-[300ms]">
+        <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
+          <div class="my-auto">
+            <img src="/src/assets/Thumbnail_Project-04.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
           </div>
-
-          <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
-            <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
-              PHP
-            </span>
-
-            <span class="px-2 py-0.5 bg-blueCustom rounded-full">
-              CSS
-            </span>
-
-            <span class="px-2 py-0.5 bg-redCustom rounded-full">
-              HTML
-            </span>
-
-            <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
-              Javascript
-            </span>
+  
+          <div class="flex flex-col justify-between px-1 py-2">
+            <div>
+              <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Refund</h3>
+              <p class="font-maven text-sm leading-140 text-gray-500Custom">
+                Um sistema para pedido e acompanhamento de reembolso 
+              </p>
+            </div>
+  
+            <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
+              <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
+                PHP
+              </span>
+  
+              <span class="px-2 py-0.5 bg-blueCustom rounded-full">
+                CSS
+              </span>
+  
+              <span class="px-2 py-0.5 bg-redCustom rounded-full">
+                HTML
+              </span>
+  
+              <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
+                Javascript
+              </span>
+            </div>
           </div>
-        </div>
-      </article>
+        </article>
+      </a>
 
-      <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
-        <div class="my-auto">
-          <img src="/src/assets/Thumbnail_Project-05.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
-        </div>
-
-        <div class="flex flex-col justify-between px-1 py-2">
-          <div>
-            <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Página de turismo</h3>
-            <p class="font-maven text-sm leading-140 text-gray-500Custom">
-              Página com as principais informações para quem quer viajar para Busan
-            </p>
+      <a href="" class="rounded-xl mx-auto my-auto hover:shadow-borderHover focus:shadow-borderHover outline-none duration-[300ms]">
+        <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
+          <div class="my-auto">
+            <img src="/src/assets/Thumbnail_Project-05.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
           </div>
-
-          <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
-            <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
-              PHP
-            </span>
-
-            <span class="px-2 py-0.5 bg-blueCustom rounded-full">
-              CSS
-            </span>
-
-            <span class="px-2 py-0.5 bg-redCustom rounded-full">
-              HTML
-            </span>
-
-            <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
-              Javascript
-            </span>
+  
+          <div class="flex flex-col justify-between px-1 py-2">
+            <div>
+              <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Página de turismo</h3>
+              <p class="font-maven text-sm leading-140 text-gray-500Custom">
+                Página com as principais informações para quem quer viajar para Busan
+              </p>
+            </div>
+  
+            <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
+              <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
+                PHP
+              </span>
+  
+              <span class="px-2 py-0.5 bg-blueCustom rounded-full">
+                CSS
+              </span>
+  
+              <span class="px-2 py-0.5 bg-redCustom rounded-full">
+                HTML
+              </span>
+  
+              <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
+                Javascript
+              </span>
+            </div>
           </div>
-        </div>
-      </article>
+        </article>
+      </a>
 
-      <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
-        <div class="my-auto">
-          <img src="/src/assets/Thumbnail_Project-06.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
-        </div>
-
-        <div class="flex flex-col justify-between px-1 py-2">
-          <div>
-            <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Zingen</h3>
-            <p class="font-maven text-sm leading-140 text-gray-500Custom">
-              Landing Page completa e responsiva de um aplicativo de Karaokê
-            </p>
+      <a href="" class="rounded-xl mx-auto my-auto hover:shadow-borderHover focus:shadow-borderHover outline-none duration-[300ms]">
+        <article class="bg-gray-300Custom max-w-[508px] flex gap-4 p-3 rounded-xl">
+          <div class="my-auto">
+            <img src="/src/assets/Thumbnail_Project-06.png" alt="Tumbnail do projeto" class="object-cover rounded-lg max-w-[224px]">
           </div>
-
-          <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
-            <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
-              PHP
-            </span>
-
-            <span class="px-2 py-0.5 bg-blueCustom rounded-full">
-              CSS
-            </span>
-
-            <span class="px-2 py-0.5 bg-redCustom rounded-full">
-              HTML
-            </span>
-
-            <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
-              Javascript
-            </span>
+  
+          <div class="flex flex-col justify-between px-1 py-2">
+            <div>
+              <h3 class="font-asap leading-120 font-bold text-gray-600Custom mb-2">Zingen</h3>
+              <p class="font-maven text-sm leading-140 text-gray-500Custom">
+                Landing Page completa e responsiva de um aplicativo de Karaokê
+              </p>
+            </div>
+  
+            <div class="flex gap-2 font-inconsolata leading-120 font-bold text-xs text-gray-200Custom">
+              <span class="px-2 py-0.5 bg-purpleCustom rounded-full">
+                PHP
+              </span>
+  
+              <span class="px-2 py-0.5 bg-blueCustom rounded-full">
+                CSS
+              </span>
+  
+              <span class="px-2 py-0.5 bg-redCustom rounded-full">
+                HTML
+              </span>
+  
+              <span class="px-2 py-0.5 bg-yellowCustom rounded-full">
+                Javascript
+              </span>
+            </div>
           </div>
-        </div>
-      </article>
-    </section>
+        </article>
+      </a>
+    </nav>
   </main>
 
   <footer>
