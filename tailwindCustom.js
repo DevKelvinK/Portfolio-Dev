@@ -21,14 +21,15 @@ tailwind.config = {
       },
       backgroundImage: {
         'intro': "url('./src/assets/Background_Intro.png')",
-        'contacts': "url('./src/assets/Background_Intro.png')",
+        'contacts': "url('./src/assets/Background_Contacts.png')",
       },
       lineHeight: {
         '120': '120%',
         '140': '140%',
       },
       boxShadow: {
-        'borderHover': '0px 0px 0px 1.5px #878EA1'
+        'grayBorderHover': '0px 0px 0px 1.5px #878EA1',
+        'blueBorderHover': '0px 0px 0px 1.5px #3996DB',
       },
     }
   }
