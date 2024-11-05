@@ -33,7 +33,7 @@
         
     <?php include('./src/components/projects.php'); ?>
   </main>
-
+  
   <footer class="bg-contacts bg-cover bg-no-repeat bg-bottom flex flex-col items-center px-[7.5rem] pt-32 pb-[12.5rem]">
     <div class="flex flex-col gap-2 text-center">
       <h2 class="font-inconsolata text-xl text-purpleCustom leading-120">Contato</h2>
@@ -42,42 +42,8 @@
         Entre em contato ou acompanhe as minhas redes sociais!
       </p>
     </div>
-
-    <nav class="mt-12">
-      <ul class="flex flex-col gap-4">
-        <li>
-          <a href="https://www.linkedin.com/in/kelvin-kesley/" target="_blank" class="py-5 px-5 inline-block flex items-center gap-3 w-[400px] bg-gray-300Custom rounded-lg hover:shadow-blueBorderHover focus:shadow-blueBorderHover outline-none duration-[300ms]">
-            <i class="ph ph-linkedin-logo text-gray-400Custom text-[28px] hover:text-blueCustom"></i>
-            <span class="flex-1 font-maven leading-140">LinkedIn</span>
-            <i class="ph ph-arrow-up-right text-blueCustom text-[20px]"></i>
-          </a>
-        </li>
-
-        <li>
-          <a href="https://www.instagram.com" target="_blank" class="py-5 px-5 inline-block flex items-center gap-3 w-[400px] bg-gray-300Custom rounded-lg hover:shadow-blueBorderHover focus:shadow-blueBorderHover outline-none duration-[300ms]">
-            <i class="ph ph-instagram-logo text-gray-400Custom text-[28px]"></i>
-            <span class="flex-1 font-maven leading-140">Instagram</span>
-            <i class="ph ph-arrow-up-right text-blueCustom text-[20px]"></i>
-          </a>
-        </li>
-
-        <li>
-          <a href="https://github.com/DevKelvinK" target="_blank" class="py-5 px-5 inline-block flex items-center gap-3 w-[400px] bg-gray-300Custom rounded-lg hover:shadow-blueBorderHover focus:shadow-blueBorderHover outline-none duration-[300ms]">
-            <i class="ph ph-github-logo text-gray-400Custom text-[28px]"></i>
-            <span class="flex-1 font-maven leading-140">GitHub</span>
-            <i class="ph ph-arrow-up-right text-blueCustom text-[20px]"></i>
-          </a>
-        </li>
-
-        <li>
-          <a href="#" target="_blank" class="py-5 px-5 inline-block flex items-center gap-3 w-[400px] bg-gray-300Custom rounded-lg hover:shadow-blueBorderHover focus:shadow-blueBorderHover outline-none duration-[300ms]">
-            <i class="ph ph-instagram-logo text-gray-400Custom text-[28px]"></i>
-            <span class="flex-1 font-maven leading-140">E-mail</span>
-            <i class="ph ph-arrow-up-right text-blueCustom text-[20px]"></i>
-          </a>
-        </li>
-      </ul>
-    </nav>
+    
+    <?php include('./src/components/contacts.php'); ?>
   </footer>
 </body>
 </html>
